@@ -1,4 +1,4 @@
-﻿Ruby Big Programming Assignment
+#Russian Troll Tweets Analyzing Tool
 www.fivethirtyeight.com published 3 million tweets from Russian trolls:
 
 
